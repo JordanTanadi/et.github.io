@@ -1,0 +1,31 @@
+CREDITS - Froggy Crosser
+
+Semua aset diambil dari internet, berlisensi bebas royalti.
+
+----------------------------------------------------------------
+1. GAMBAR (assets/images) - 12 file
+----------------------------------------------------------------
+
+[1] Frogger Asset Pack - Kyle Fuji
+    https://kyle-fuji.itch.io/frogger-asset-pack
+
+    images/katak.png            <- frog0000
+    images/katak_mati.png       <- frog_death0006
+    images/kayu_kecil.png       <- log_left + log_right
+    images/kayu_sedang.png      <- log_left + 2x log_middle + log_right
+    images/kayu_besar.png       <- log_left + 4x log_middle + log_right
+    images/mobil.png            <- car_2
+    images/mobil_balap.png      <- car_1
+    images/truk.png             <- truck
+    images/tanah.png            <- flower_ground_1
+
+[2] Frogger Assets - theMinesAreShakin
+    https://opengameart.org/content/frogger-assets
+
+    images/air.png              <- tiles.png (biru)
+    images/rumput.png           <- tiles.png (hijau)
+
+[3] top down Road Tileset - AdebGameSoft
+    https://opengameart.org/content/top-down-road-tileset
+
+    images/jalan.png            <- Road_test.png
